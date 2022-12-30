@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonymanh-dev/blog.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "tony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonymanh-dev/blog/issues"
+  },
+  "homepage": "https://github.com/tonymanh-dev/blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
